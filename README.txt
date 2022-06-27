@@ -5,7 +5,7 @@ I just go by "Hobbs."
 
 🌱 I’m currently learning ...
 - Python development: I'm working on several development projects in Python as part of my summer internship.
-- *onverged computing and workflows: I'm part of a group of interns studying complex workflows for scientific data that utilize high-performance and cloud computing capabilities.
+- Vonverged computing and workflows: I'm part of a group of interns studying complex workflows for scientific data that utilize high-performance and cloud computing capabilities.
 
 🤔 I’m looking for help with ...
 - Kubernetes: I'd like to help out on projects that involve more cloud capabilities, anything open-source in this domain: please reach out.
