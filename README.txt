@@ -13,9 +13,5 @@ I just go by "Hobbs."
 💬 Ask me about ...
 - Supercomputing: I like supercomputers, and have done two internships at HPC centers.
 
-📫 How to reach me: 
-- Opening an issue on a repo or tagging me is the quickest way.
-- Every once in a while I respond to email, you can try that too.
-
 ⚡ Fun fact: ...
 - I love to travel, and am working on ways to visualize this as part of my portfolio. Most recently, I went to Madrid, and looked at art for a whole week. It was great.
