@@ -1,3 +1,4 @@
 ### Hi there, my name's Hobbs 👋
 
-- 🇦🇷 I'm currently taking a break from school to travel South America.
+- 🇦🇷 I recently went to South America, that was fun.
+- 💻 Now I'm back to working on big computers.
