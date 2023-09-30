@@ -1,4 +1,4 @@
 ### Hi there, my name's Hobbs 👋
 
 - 🇦🇷 I recently went to South America, that was fun.
-- 💻 Now I'm back to working on big computers.
+- 💻 I'm learning about cluster management by building my own [smol] Raspberry Pi cluster.
